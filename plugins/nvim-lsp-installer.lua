@@ -1,0 +1,23 @@
+return {
+  ensure_installed = {
+    "bash",
+    "css",
+    "dockerfile",
+    "go",
+    "hcl",
+    "javascript",
+    "json",
+    "lua",
+    "make",
+    "markdown",
+    "php",
+    "python",
+    "rego",
+    "ruby",
+    "sumneko_lua",
+    "toml",
+    "typescript",
+    "vue",
+    "yaml",
+  },
+}
