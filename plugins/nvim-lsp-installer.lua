@@ -1,23 +1,20 @@
 return {
   ensure_installed = {
-    "bash",
-    "css",
-    "dockerfile",
-    "go",
-    "hcl",
-    "javascript",
-    "json",
-    "lua",
-    "make",
-    "markdown",
-    "php",
-    "python",
-    "rego",
-    "ruby",
-    "sumneko_lua",
-    "toml",
-    "typescript",
-    "vue",
-    "yaml",
+    "bashls",
+    "cssls",
+    "cmake", -- make
+    "dockerls",
+    "gopls",
+    "jsonls",
+    "phpactor", -- php
+    "pyright",
+    "remark_ls", -- markdown
+    "solargraph", -- ruby
+    "sumneko_lua", -- lua
+    "terraformls", -- hcl/terraform
+    "taplo", -- toml
+    "tsserver", -- javascript/typescript
+    "vuels",
+    "yamlls",
   },
 }
