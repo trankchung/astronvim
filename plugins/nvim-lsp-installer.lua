@@ -12,7 +12,6 @@ return {
     "solargraph", -- ruby
     "sumneko_lua", -- lua
     "terraformls", -- hcl/terraform
-    "taplo", -- toml
     "tsserver", -- javascript/typescript
     "vuels",
     "yamlls",
